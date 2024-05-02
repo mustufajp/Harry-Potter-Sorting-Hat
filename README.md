@@ -42,8 +42,15 @@ You can watch this [video](https://youtu.be/T1G4wzRO_tc) to learn more about the
 
    The model analyzes the quiz responses and assigns a percentage match to each house, indicating the most suitable Hogwarts house for the individual.
 
+## Limitations and Future Considerations:
+
+**Limitations:**
+- The information collected was strongly skewed towards Gryffindor, as most main characters in the series belong to that house. This resulted in limited data for other houses, making it challenging to build an accurate system without synthetic data.
+- Although we explored different models such as random forest and decision trees, the results were subpar, likely due to the limited data available for houses other than Gryffindor.
+
+**Future Considerations:**
+- Collecting more diverse data sources to balance the representation of traits across all Hogwarts houses.
+- Experimenting with advanced natural language processing techniques and neural network architectures to improve the accuracy and robustness of the sorting model.
+- Enhancing the user interface of the sorting quiz and integrating additional interactive features for a richer user experience.
+
 This project utilizes machine learning techniques to recreate the enchanting experience of the sorting hat ceremony from Harry Potter in an interactive digital format.
-
-
-
-
