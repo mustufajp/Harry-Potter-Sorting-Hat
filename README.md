@@ -49,7 +49,6 @@ You can watch this [video](https://youtu.be/T1G4wzRO_tc) to learn more about the
 - Although we explored different models such as random forest and decision trees, the results were subpar, likely due to the limited data available for houses other than Gryffindor.
 
 **Future Considerations:**
-- Collecting more diverse data sources to balance the representation of traits across all Hogwarts houses.
 - Experimenting with advanced natural language processing techniques and neural network architectures to improve the accuracy and robustness of the sorting model.
 - Enhancing the user interface of the sorting quiz and integrating additional interactive features for a richer user experience.
 
